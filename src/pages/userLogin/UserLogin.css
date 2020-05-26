@@ -1,0 +1,60 @@
+.login-card {
+    width: 300px;
+    height: 325px;
+    background-color: white;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 130px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.card-title__header {
+    text-align: center;
+    padding: 10px;
+}
+
+hr {
+    width: 80%;
+    margin: auto;
+}
+
+form {
+    display: grid;
+    margin-top: 15px;
+    justify-content: center;
+}
+
+label {}
+
+input {
+    padding: 5px;
+    width: 100%;
+    margin-top: 3px;
+}
+
+.login-btn {
+    display: block;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.cancle {
+    padding: 5px;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    width: 90px;
+}
+
+.login {
+    padding: 5px;
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    width: 80px;
+    margin-left: 10px;
+}

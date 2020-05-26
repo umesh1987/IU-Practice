@@ -1,0 +1,29 @@
+.blog-header {
+    background-color: #eeeeee;
+}
+
+.subscribe a {
+    color: black;
+}
+
+.text-center a {
+    font-size: 25px;
+    font-family: monoton;
+    color: black;
+    text-decoration: none;
+}
+
+hr {
+    background-color: #8d8b8b;
+    width: 100%;
+    margin-top: 7px;
+}
+
+.fas {
+    color: black;
+    font-size: 24px;
+}
+
+.btn-sm {
+    width: 90px;
+}

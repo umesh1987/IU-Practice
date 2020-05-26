@@ -1,0 +1,20 @@
+.jumbotron {
+    position: relative;
+    background-color: #3a3a3a;
+    margin-top: 10px;
+    height: 300px;
+    width: 100%;
+}
+
+.titleJumbo {
+    position: absolute;
+    left: 0;
+    top: 15%;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+.titleJumbo h1 {
+    font-size: 150px;
+}
